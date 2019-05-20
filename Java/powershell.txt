@@ -1,0 +1,7 @@
+copy-item C:\Users\1025032\Documents\Excel C:\Users\1025032\Desktop\Java -recurse
+
+
+Pipeline
+get-childitem | sort-objecssssst Length | out-file .\file.docx
+
+Rupan  mayan

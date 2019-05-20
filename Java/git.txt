@@ -1,0 +1,10 @@
+Git commands
+
+git init
+git status
+git add
+git commit -m "message"
+git remote add origin https://github.com/RupanMayan/jda1.git
+git push -u origin master
+
+Rupan

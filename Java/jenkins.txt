@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=p7-U1_E_j3w
+Comtinuous Integration Tools
+jenkins 
+buildbot
+travisCI
+Bamboo
+
+Deploy to a ftp server
+https://www.youtube.com/watch?v=ZdUk3UeG8JQ
+
+deploy into prod 
+https://www.youtube.com/watch?v=T-K5uxXl820
